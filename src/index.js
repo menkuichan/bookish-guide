@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Accordion from './components/Accordion';
+import Home from './components/Home';
 
 ReactDOM.render(
-  <Accordion />,
+  <Home />,
   document.getElementById('app')
 );
